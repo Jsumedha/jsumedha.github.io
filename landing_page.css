@@ -86,7 +86,7 @@
   text-align: center;
 }
 
-.holder .video {
+.holder iframe {
   margin-top: -50px;
   display: flex;
   justify-content: center;
