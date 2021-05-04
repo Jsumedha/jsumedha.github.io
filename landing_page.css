@@ -86,8 +86,8 @@
   text-align: center;
 }
 
-.holder iframe {
-  margin-top: -50px;
+.holder .video {
+  margin-top: 20px;
   display: flex;
   justify-content: center;
 }
