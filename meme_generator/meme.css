@@ -1,0 +1,9 @@
+#meme_text {
+  background-color: rgba(0, 0, 0, 0.2);
+  font-size: 32px;
+  color: white;
+  width: 600px;
+  position: absolute;
+  text-align: center;
+  top: 500px;
+}
